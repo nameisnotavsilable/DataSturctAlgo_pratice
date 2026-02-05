@@ -1,0 +1,3 @@
+﻿  WangDaoOjC.c
+D:\program\KaoYanExam\C\WangDaoOj\WangDaoOjC.c(156,17): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+  WangDaoOj.vcxproj -> D:\program\KaoYanExam\C\WangDaoOj\x64\Debug\WangDaoOj.exe
