@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/program/KaoYanExam/Programe/ClionProgram/DataSturctAlgo/Linearlist/StaticLinkList/StaticLinkList.cpp
+stdio.h
+-
+stdlib.h
+-
+

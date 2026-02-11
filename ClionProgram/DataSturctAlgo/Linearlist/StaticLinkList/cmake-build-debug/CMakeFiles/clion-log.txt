@@ -1,0 +1,4 @@
+"D:\CLine\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\program\KaoYanExam\Programe\ClionProgram\DataSturctAlgo\Linearlist\StaticLinkList
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/program/KaoYanExam/Programe/ClionProgram/DataSturctAlgo/Linearlist/StaticLinkList/cmake-build-debug
